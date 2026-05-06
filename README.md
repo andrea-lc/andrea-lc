@@ -15,10 +15,10 @@ Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
 ### Tecnologías
 
-![Java](https://img.shields.io/badge/Java-ED1C24?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-9B1C1C?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-9B1C1C?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9B1C1C?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D4537E?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D4537E?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-D4537E?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D4537E?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -28,9 +28,9 @@ Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
 ---
 
-![](https://img.shields.io/badge/errores%20de%20compilaci%C3%B3n-%E2%88%9E-9B1C1C?style=flat-square)
-![](https://img.shields.io/badge/horas%20de%20sue%C3%B1o-%E2%88%9E%20menos-9B1C1C?style=flat-square)
-![](https://img.shields.io/badge/ganas%20de%20rendirse-0%25-9B1C1C?style=flat-square)
+![](https://img.shields.io/badge/errores%20de%20compilaci%C3%B3n-%E2%88%9E-D4537E?style=flat-square)
+![](https://img.shields.io/badge/horas%20de%20sue%C3%B1o-%E2%88%9E%20menos-D4537E?style=flat-square)
+![](https://img.shields.io/badge/ganas%20de%20rendirse-0%25-D4537E?style=flat-square)
 
 ---
 
@@ -38,4 +38,4 @@ Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
 ---
 
-🔴 Aprendiendo activamente · 😶‍🌫️ 
+🩷 Aprendiendo activamente · 😶‍🌫️
