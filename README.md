@@ -1,4 +1,4 @@
-# Hola, soy Andrea 🤠
+# Hola, soy Andrea 🥱
 
 Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
@@ -24,7 +24,13 @@ Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
 ### Stats
 
-![andrea-lc's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-lc&show_icons=true&theme=gruvbox&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=andrea-lc&theme=tokyonight-duo&hide_border=true&locale=es)
+
+---
+
+![](https://img.shields.io/badge/errores%20de%20compilaci%C3%B3n-%E2%88%9E-9B1C1C?style=flat-square)
+![](https://img.shields.io/badge/horas%20de%20sue%C3%B1o-%E2%88%9E%20menos-9B1C1C?style=flat-square)
+![](https://img.shields.io/badge/ganas%20de%20rendirse-0%25-9B1C1C?style=flat-square)
 
 ---
 
