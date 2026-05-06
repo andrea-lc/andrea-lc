@@ -32,4 +32,4 @@ Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
 ---
 
-🔴 Aprendiendo activamente · abierta a colaborar en proyectos educativos
+🔴 Aprendiendo activamente · 😶‍🌫️ 
