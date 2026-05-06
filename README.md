@@ -1,4 +1,4 @@
-# Hola, soy Andrea 👋
+# Hola, soy Andrea 🤠
 
 Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
