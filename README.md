@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Andrea 👋
 
-<!--
-**andrea-lc/andrea-lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+- 🎓 Estudiando Ingeniería de Sistemas
+- 💻 Aprendiendo Java y desarrollo web (HTML/CSS)
+- 🔧 Construyendo mis primeros proyectos con código
+- 📍 Arequipa, Perú
+
+---
+
+### Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED1C24?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9B1C1C?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-9B1C1C?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9B1C1C?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Stats
+
+![andrea-lc's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea-lc&show_icons=true&theme=gruvbox&hide_border=true)
+
+---
+
+> *"¿Reír o llorar? Sí."* — yo, todos los días de universidad.
+
+---
+
+🔴 Aprendiendo activamente · abierta a colaborar en proyectos educativos
