@@ -2,6 +2,8 @@
 
 Estudiante de **Ingeniería de Sistemas** · en construcción permanente
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=FF4DA6&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Java+Developer;Web+Development+%7C+Databases;Always+Learning+New+Technologies" />
+
 ---
 
 ### Sobre mí
