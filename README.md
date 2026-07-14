@@ -61,19 +61,6 @@ Incluye:
 * Carrito de compras
 * Blog
 * Contacto
-
----
-
-🎮 **Pokémon Battle Simulator**
-
-Proyecto académico desarrollado en Java utilizando Programación Orientada a Objetos y patrones de diseño.
-
----
-
-🗄️ **Proyectos con Bases de Datos**
-
-Modelado de bases de datos utilizando SQL y PostgreSQL.
-
 ---
 
 # 📈 GitHub Stats
@@ -89,7 +76,6 @@ Modelado de bases de datos utilizando SQL y PostgreSQL.
 # 🎯 Actualmente
 
 * 🌱 Mejorando mis habilidades en Java
-* 📖 Aprendiendo Spring Boot
 * 💻 Construyendo proyectos personales
 * 🚀 Descubriendo nuevas tecnologías
 
