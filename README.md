@@ -16,9 +16,6 @@ Construyendo proyectos, aprendiendo nuevas tecnologías y sobreviviendo a la uni
 
 🎓 Estudiante de Ingeniería de Sistemas
 
-📍 Arequipa, Perú 🇵🇪
-
-💻 Me gusta desarrollar aplicaciones en Java y proyectos web.
 
 📚 Actualmente sigo aprendiendo sobre:
 
@@ -31,36 +28,16 @@ Construyendo proyectos, aprendiendo nuevas tecnologías y sobreviviendo a la uni
 * 📦 Estructuras de Datos
 * 🐧 Linux
 
-Siempre intento que cada proyecto sea mejor que el anterior.
-
 ---
 
 # 🚀 Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,postgresql,spring,linux,vscode,idea,netbeans&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,mysql,postgresql,linux,vscode,idea,netbeans&theme=dark"/>
 
 </div>
 
----
-
-# 📂 Algunos proyectos
-
-🐾 **Dolly's House**
-
-> Tienda virtual responsive para mascotas desarrollada con HTML y CSS.
-
-Incluye:
-
-* Responsive Design
-* Grid Layout
-* Flexbox
-* Animaciones CSS
-* Página de productos
-* Carrito de compras
-* Blog
-* Contacto
 ---
 
 # 📈 GitHub Stats
@@ -81,7 +58,7 @@ Incluye:
 
 ---
 
-# ☕ Un poco de humor
+# ☕
 
 <div align="center">
 
@@ -111,9 +88,6 @@ Incluye:
 
 🩷 **Code • Learn • Improve • Repeat**
 
-Gracias por visitar mi perfil.
-
-⭐ Si alguno de mis proyectos te resulta interesante, ¡no olvides dejar una estrella!
 
 </div>
 
